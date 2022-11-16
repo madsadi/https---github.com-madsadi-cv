@@ -10,6 +10,7 @@ module.exports = {
       backgroundImage: {
         'developer': "url('/mac.jpeg')",
         'profile': "url('/profile.jpeg')",
+        'code':"url('/code.jpeg')"
       }
     },
   },
