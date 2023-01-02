@@ -6,9 +6,9 @@ import Head from 'next/head';
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
-    <Head>
-      <title>Saeed Anvari Resume</title>
-    </Head>
+      <Head>
+        <title>Saeed Anvari Resume</title>
+      </Head>
       <Component {...pageProps} />
     </>)
 }
